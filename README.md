@@ -1,8 +1,8 @@
 # Last Text at One Percent
 
 [![Competition](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876.svg)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876)
-[![Rank](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876/rank.svg)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876)
-[![Reward](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876/reward.svg)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876)
+[![Rank](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876/aira-catur/last-text-at-one-percent/rank.svg)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876)
+[![Reward](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876/aira-catur/last-text-at-one-percent/reward.svg)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876)
 
 Entry for the [Last Text at One Percent](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876) competition on make.fun: a program that writes the funniest final text message a dying phone sends at one percent battery, in the phone's own voice, judged head to head on humour and voice.
 
