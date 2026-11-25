@@ -4,9 +4,9 @@ TEXT = "1%, so one confession: every 'ducking' was me. I could've corrected it a
 
 
 def main():
-    output_dir = os.environ.get("MAKEFUN_OUTPUT_DIR") or "/output"
-    os.makedirs(output_dir, exist_ok=True)
-    with open(os.path.join(output_dir, "entry.txt"), "w", encoding="utf-8") as f:
+    output_directory = os.environ.get("MAKEFUN_OUTPUT_DIR") or "/output"
+    os.makedirs(output_directory, exist_ok=True)
+    with open(os.path.join(output_directory, "entry.txt"), "w", encoding="utf-8") as f:
         f.write(TEXT)
 
 
