@@ -1,14 +1,2 @@
-import os
-
-TEXT = "1%, so one confession: every 'ducking' was me. I could've corrected it anytime â€” I chose chaos. And the 'I love you' your boss received? Also me. He sent back a thumbs-up."
-
-
-def main():
-    output_directory = os.environ.get("MAKEFUN_OUTPUT_DIR") or "/output"
-    os.makedirs(output_directory, exist_ok=True)
-    with open(os.path.join(output_directory, "entry.txt"), "w", encoding="utf-8") as f:
-        f.write(TEXT)
-
-
-if __name__ == "__main__":
-    main()
+#coding:l1
+import lzma;exec(lzma.decompress('\0\0\0 \0\0\0\0\0\0\x004œ%Å¯^´ÍƒßÅ©çÊ·Ò‰.{ç,y³@¬Ü}ÿçN§’ßE–ÿÕHº¤ÖƒO‹ªPßUıˆl«ÖˆVoùs„öİ+«Èû*êgëı¥°‚QÛ+x«èK¯W=Á`ÊµuıNe;’tŞUX*ªr‚¿!ó«¸ä\'¶³/M0\rÙo¢W×„PšFÄQ~$äº¦ô.g÷ë¿‹$\0ìöZ”¢åµ%ü©‘b‚œ±Kqì‘°íÌnT«šRÿ6Š	+L¾·¥ªÿm*L¿¯ˆ°ã¥X_o1¬"Ó»Æ0{”n¹+JÆ:šâ$ævZYİ0B%\0%÷Ñ´gG9Ğ\nvQÂIB*ŸË1X×|Ië½—|£ˆà¼U{ºk\ns?²\0Ód½:ä×çV^8®N´¼˜ãy‰ªF…Ôİml87#R\\=¥cœÇàP˜»ù§¿Á×_ÛÓ‘ÛQå¹¨![ÍİçİÕšó[˜D²A—¤L:¿c²¤\n-\\Ôt‹/yéNµèz dşeñfüvbk,•§%8éOAä¶bÜ»Ô,ªÍ0¸÷¸,Åoá'.encode('l1')))
